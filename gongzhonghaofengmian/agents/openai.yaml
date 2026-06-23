@@ -1,0 +1,7 @@
+interface:
+  display_name: "公众号封面"
+  short_description: "生成双封面并只交付拼接横图"
+  default_prompt: "Use $gongzhonghaofengmian to generate separate palette-matched 2.35:1 and 1:1 cover designs from this poster, then stitch and deliver only the final 3.35:1 WeChat cover."
+
+policy:
+  allow_implicit_invocation: true
